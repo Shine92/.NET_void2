@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\bin\Debug\test0907_test1.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\bin\Debug\test0907_test1.exe
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\bin\Debug\test0907_test1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\obj\Debug\test0907_test1.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\obj\Debug\test0907_test1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\obj\Debug\test0907_test1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\obj\Debug\test0907_test1.exe
+c:\users\admin\documents\visual studio 2015\Projects\test0907_test1\test0907_test1\obj\Debug\test0907_test1.pdb
